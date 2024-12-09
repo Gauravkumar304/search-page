@@ -42,7 +42,7 @@ const Home: React.FC = () => {
         </div>
       </div>
       <footer className="text-center mt-8 text-blue-500">
-  <a href="https://portfolio-hazel-iota-37.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <a href="https://portfolio-hazel-iota-37.vercel.app/" target="_blank" rel="noopener noreferrer">
     View My Portfolio
   </a>
 </footer>
